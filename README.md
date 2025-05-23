@@ -6,7 +6,7 @@ Dataset: https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci
 
 Interpretacion:
 
-El dataset analiza la relación entre colesterol, edad y enfermedades cardíacas. 
+El dataset de Heart Disease Cleveland UCI analiza la relación entre colesterol, edad y enfermedades cardíacas. 
 En el entrenamiento, el colesterol se simplifica a categorías (0 y 1), 
 mientras que en las pruebas se usan valores reales (175-325 mg/dL). 
 Las edades van desde los 30-70 años, con más detalle en la fase de prueba. 
